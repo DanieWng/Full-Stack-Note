@@ -1,8 +1,8 @@
 #ImageMagick 命令
 
-#拼接图片
+###拼接图片
 
-#剪裁图片
+###剪裁图片
 * 分隔多张小图
 
 * 剪裁一张指定尺寸的小图
@@ -35,3 +35,16 @@
 	// 中间
 	convert scr.png -gravity center -crop 36x36+0+0 dest.png
 	```
+
+###翻转
+
+* 上下翻转
+
+	`convert -flip src dst`
+
+* 左右翻转
+
+	`convert -flop src dst`
+	
+
+
