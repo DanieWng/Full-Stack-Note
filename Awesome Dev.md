@@ -15,6 +15,7 @@
 	* droptogif
 	* TinyPNG4Mac
 	* [BOSCA CEOIL](#boscaceoil)
+	* ZSH
 
 * [**Unity**](#unity)
 
