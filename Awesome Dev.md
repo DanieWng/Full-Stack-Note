@@ -4,18 +4,68 @@
 
 ## List
 
-*	**Applications**
-	* [Sketch](#sketch)
-	* [PxCook](#pxcook)
-	* [AssistorPS](#assistorps)
-	* iMage Tools
-	* [Visual Studio Code](#vscode)
-	* SQLite Manager for Firefox
-	* ImageMagick
-	* droptogif
-	* TinyPNG4Mac
-	* [BOSCA CEOIL](#boscaceoil)
-	* ZSH
+* **Applications**
+
+	* Desgin Tool
+		1. [Sketch](#sketch)
+		2. [PxCook](#pxcook)
+		3. [AssistorPS](#assistorps)
+		4. iMage Tools
+		5. droptogif
+		6. TinyPNG4Mac
+		7. ImageMagick
+		8. GAF-Converter
+		9. GIPHY CAPTURE
+		10. Plist Extractor
+		11. 截图
+		12. PowerVR Graphics SDK
+		
+	* Editor/IDE
+		1. [Visual Studio Code](#vscode)
+		
+	* Termial
+		1. ZSH
+		2. oh my zsh
+
+	* Sound
+		1. [BOSCA CEOIL](#boscaceoil)
+	
+	* Database
+		1. Robomongo
+		2. Sequal Pro (MySQL)
+		3. MySQL Workbench (MySQL)
+		4. Ali Cloud OSS
+		5. SQLite Manager for Firefox
+		
+	* API Tool
+		1. Advanced REST client
+		2. Charles
+		
+	* FTP Client
+		1. Cyberduck
+		2. FileZilla
+		
+	* Git Client
+		1. Github Desktop
+		2. Source Tree
+		
+	* Awsome
+		1. Alfred 3
+		
+	* Development Tool
+		1. Android Tool
+		2. Apparticle
+		
+	* 3D 
+		1. Blender
+		2. MagicalVoxel
+		
+	* Note
+		1. Boostnote
+		2. MacDown
+		3. XMind
+		
+		
 
 * [**Unity**](#unity)
 
